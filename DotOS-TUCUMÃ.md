@@ -3,13 +3,15 @@
 
 #Changes
 - switch to enforcing
-- removed Safailnet
+- Removed Safailnet
+- Removed all prebuilts apps
+- Removed Gvisual Mod
 - Reduce screenshot delay to 0
 - Disable foreground prefer_idle & reduce TA boost
-- Removed all prebuilts apps
 - enable f2fs support for data partitions
 - Update wfd blobs from LA.UM.9.6.2.r1-03300-89xx.0
 - Kang more pixel power HAL sepolicy
+
 
 Fix: 
 - fix green video recording through the camera
