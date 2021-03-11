@@ -15,7 +15,7 @@
 - Update: Kang some post-boot values from bengal
 - Update vendor SPL from LA.UM.8.2.r1-07400-sdm660.0
 - Update: qti-telephony-common from nubia
-- pdate fingerprint to Redfin - RQ2A.210305.006
+- Update fingerprint to Redfin - RQ2A.210305.006 (cts passed without magisk)
 - Set Netflix property based on target
 
 # Fix
