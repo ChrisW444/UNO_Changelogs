@@ -1,4 +1,28 @@
-# DotOS 5.0-TUCUMÃ
+# DotOS for Redmi Note 7/7s
+# Version: 5.0 - 10-03-2021
+# Kernel 4.19
+
+#Changes
+- Add Gboard in Vanilla Builds
+- Add init changes required for power-libperfmgr
+- Drop zram
+- Enable fluence voice recording
+- Import pixel power hidl
+- Improve ram management
+- Introduce 'SafailNet'
+- rootdir: configure some post_boot values from wahoo
+- Update: rootdir from LA.UM.9.2.1.r1-06000-sdm660.0
+- Update: Kang some post-boot values from bengal
+- Update vendor SPL from LA.UM.8.2.r1-07400-sdm660.0
+- Update: qti-telephony-common from nubia
+- pdate fingerprint to Redfin - RQ2A.210305.006
+- Set Netflix property based on target
+
+# Fix
+- Fix Ok Google.
+- Standard camera replaced by GcamGo 1.11. (old standard camera was crashing)
+- Drop Spectrum from xiaomiparts. (this was getting in the way of performance and battery)
+
 # 27-02-2021
 
 #Changes
