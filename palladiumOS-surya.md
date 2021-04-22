@@ -27,4 +27,5 @@
 - Introduce XiaomiDoze
 
 # Credits
-- thanks to all users of the Poca Rom Brazil group for testing
+- Thanks to all users of the Poca Rom Brazil group for testing.
+- Thanks @kleidione for kernel.
