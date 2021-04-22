@@ -1,5 +1,5 @@
 
-# Build intial
+# Build initial
 - Add Gboard and GalleryGO in Vanilla Builds
 - Add OP Screen Recorder
 - Clear Speaker e XiaomiDoze moved for Poco Parts
